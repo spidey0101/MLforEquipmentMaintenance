@@ -18,7 +18,7 @@ MLforEquipmentMaintenance uses machine learning to predict when equipment requir
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/MLforEquipmentMaintenance.git
+   git clone [https://github.com/your-username/MLforEquipmentMaintenance.git](Repo)
    cd MLforEquipmentMaintenance
 
 2. Install dependencies:
